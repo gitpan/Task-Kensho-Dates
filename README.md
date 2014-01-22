@@ -4,7 +4,7 @@ Task::Kensho::Dates - A Glimpse at an Enlightened Perl: Date Modules
 
 # VERSION
 
-version 0.34003
+version 0.34004
 
 # SYNOPSIS
 

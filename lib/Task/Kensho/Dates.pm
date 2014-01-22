@@ -4,8 +4,8 @@ package Task::Kensho::Dates;
 BEGIN {
   $Task::Kensho::Dates::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34002-TRIAL-14-g0a31ea7
-$Task::Kensho::Dates::VERSION = '0.34003'; # TRIAL
+# git description: v0.34003-TRIAL-8-ga16c01b
+$Task::Kensho::Dates::VERSION = '0.34004'; # TRIAL
 # ABSTRACT: A Glimpse at an Enlightened Perl: Date Modules
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Dates - A Glimpse at an Enlightened Perl: Date Modules
 
 =head1 VERSION
 
-version 0.34003
+version 0.34004
 
 =head1 SYNOPSIS
 
