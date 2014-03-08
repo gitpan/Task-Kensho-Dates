@@ -4,8 +4,8 @@ package Task::Kensho::Dates;
 BEGIN {
   $Task::Kensho::Dates::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34004-TRIAL-23-g0ab7c7d
-$Task::Kensho::Dates::VERSION = '0.35';
+# git description: v0.35-26-g11b4f21
+$Task::Kensho::Dates::VERSION = '0.36';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Date Modules
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Dates - A Glimpse at an Enlightened Perl: Date Modules
 
 =head1 VERSION
 
-version 0.35
+version 0.36
 
 =head1 SYNOPSIS
 
@@ -42,7 +42,7 @@ subject and object."[3]
 
 =back
 
-L<Task::Kensho> is a first cut at building a list of recommended modules
+L<Task::Kensho> is a list of recommended modules
 for Enlightened Perl development. CPAN is wonderful, but there are too
 many wheels and you have to pick and choose amongst the various
 competing technologies.
@@ -81,7 +81,7 @@ A date and time object
 
 =head3 L<DateTime::Tiny>
 
-A date object with as little code as possible
+A date time object with as little code as possible
 
 =head3 L<Time::ParseDate>
 
@@ -99,7 +99,7 @@ regarding which modules you wish to install.
 
 The C<cpanm> client requires interactive mode to be enabled for this to work:
 
-    cpanm --interactive Task-Kensho
+    cpanm --interactive Task::Kensho::Dates
 
 =head1 BUGS AND LIMITATIONS
 
