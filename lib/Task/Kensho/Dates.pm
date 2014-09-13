@@ -1,8 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::Dates;
-# git description: v0.36-23-ge0dee7d
-$Task::Kensho::Dates::VERSION = '0.37';
+# git description: v0.37-25-g0b4c9db
+$Task::Kensho::Dates::VERSION = '0.38';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Date Modules
 
 __END__
@@ -17,7 +17,7 @@ Task::Kensho::Dates - A Glimpse at an Enlightened Perl: Date Modules
 
 =head1 VERSION
 
-version 0.37
+version 0.38
 
 =head1 SYNOPSIS
 
